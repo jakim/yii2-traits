@@ -1,6 +1,6 @@
 <?php
 
-namespace app\components\traits;
+namespace jakim\traits;
 
 use yii\db\ActiveRecord;
 
