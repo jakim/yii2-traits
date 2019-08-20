@@ -1,0 +1,24 @@
+{
+    "name": "jakim-pj/yii2-traits",
+    "description": "Useful extras",
+    "type": "extras",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Paweł Jakimowski",
+            "email": "pawel@jakimowski.info"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "require-dev": {
+        "yiisoft/yii2": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "jakim\\traits\\": "src/"
+        }
+    }
+}
